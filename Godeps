@@ -64,3 +64,4 @@ gopkg.in/gorethink/gorethink.v3 7ab832f7b65573104a555d84a27992ae9ea1f659
 gopkg.in/mgo.v2 3f83fa5005286a7fe593b055f0d7771a7dce4655
 gopkg.in/olivere/elastic.v5 ee3ebceab960cf68ab9a89ee6d78c031ef5b4a4e
 gopkg.in/yaml.v2 4c78c975fe7c825c6d1466c42be594d1d6f3aba6
+github.com/lib/pq 8837942c3e09574accbc5f150e2c5e057189cace
