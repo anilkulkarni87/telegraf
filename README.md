@@ -162,6 +162,7 @@ configuration options.
 * [rabbitmq](./plugins/inputs/rabbitmq)
 * [raindrops](./plugins/inputs/raindrops)
 * [redis](./plugins/inputs/redis)
+* [redshift_sql](./plugins/inputs/redshift_sql)
 * [rethinkdb](./plugins/inputs/rethinkdb)
 * [riak](./plugins/inputs/riak)
 * [sensors](./plugins/inputs/sensors)
